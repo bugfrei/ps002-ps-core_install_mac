@@ -40,3 +40,8 @@ Sportlight suchen öffnen und `powershell` eingeben. Nun sollte die PowerShell a
 | VLC      | `vlc`        | Video Player der viele Formate beherscht |
 
 Um alle mit brew installierten Programe upzudaten kann einfach `brew upgrade all -y` ausgeführt werden. Auch hier geht alles automatisch.
+
+# Zurück zur Übersicht
+
+- [Übersicht dieses Tutorials](../../readme.md)
+- [Alle Themenbereichen](https://github.com/bugfrei/itea.git)
