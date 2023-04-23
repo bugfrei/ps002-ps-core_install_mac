@@ -1,23 +1,15 @@
-# Titel...
+# PowerShell Core Installation auf dem Mac
 
-Languages:
-- [english](./readme.md)
-- [deutsch](./readme_de.md)
+Symbolbedeutung:<br />
+👉 Benutzeraktivität<br />
+⚡ Schneller Weg
 
-Symbolic meaning:<br />
-👉 User activity here<br />
-⚡ Fast way
+## Inhaltsverzeichnis
 
-## Table of contents
+[01. Installationschritte für PowerShell Core](exercises/01/readme.md)
 
-## Clone this Repository
+## Das Repository klonen
 
-See [here](./clone-this-repo.md).
+Siehe [hier](./clone-this-repo_de.md).
 
-## Other usefull tutorials
-
-- [The basics of PowerShell](https://github.com/bugfrei/ps-powershell-basics/)
-- [Interactiv PS Github Tutorial, german only](https://github.com/bugfrei/Git-Tutorial)
-
-More to come.
 
