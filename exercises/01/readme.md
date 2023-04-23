@@ -41,7 +41,7 @@ Sportlight suchen öffnen und `powershell` eingeben. Nun sollte die PowerShell a
 
 Um alle mit brew installierten Programe upzudaten kann einfach `brew upgrade all -y` ausgeführt werden. Auch hier geht alles automatisch.
 
-# Zurück zur Übersicht
+# Zurück zu...
 
 - [Übersicht dieses Tutorials](../../readme.md)
 - [Alle Themenbereichen](https://github.com/bugfrei/itea.git)
