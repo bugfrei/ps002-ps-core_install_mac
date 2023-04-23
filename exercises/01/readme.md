@@ -20,7 +20,7 @@ Optional kann dann mit `brew analytics off` die Analysedatenübermittlung abgesc
 
 Um später Homebrew zu aktualisieren `brew update` ausführen.
 
-## Installation der PowerShell Core
+## 👉 Installation der PowerShell Core
 
 1. `brew search powershell` ausführen, hier sollte die PowerShell aufgelistet werden.
 2. `brew install powershell` ausführen. Damit wird die PowerShell installiert.
