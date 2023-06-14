@@ -27,7 +27,7 @@ Um später Homebrew zu aktualisieren `brew update` ausführen.
 
 Sportlight suchen öffnen und `powershell` eingeben. Nun sollte die PowerShell angezeigt werden.
 
-# Folgende Anwendungen empfehle ich mit Choco zu installieren:
+# Folgende Anwendungen empfehle ich mit brew zu installieren:
 
 | Programm | Name in brew | Beschreibung |
 |----------|--------------|--------------|
